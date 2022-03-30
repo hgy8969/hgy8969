@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 29 14:55:41 2022
-
-@author: PC-1
+@author: hgy8969
+Please acknowledge us in your future publication/presentation 
+by citing our paper and mentioning the source code. Thank you so much.
+https://doi.org/10.1016/j.rse.2021.112348
 """
 import numpy as np
 from math import cos,pi
